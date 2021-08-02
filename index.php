@@ -1,4 +1,4 @@
 <?php
-echo "hello";
-
+$result = $_REQUEST['code'];
+echo $result
 ?>
